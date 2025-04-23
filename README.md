@@ -55,8 +55,3 @@ The project follows the Page Object Pattern to maintain a clean separation of co
 - REST-assured is used for API interactions
 - The test automatically cleans up after itself by deleting created resources
 
-## Contact
-
-For questions or issues, please contact:
-- batuhan.zafer@testinium.com
-- tam@testinium.com 
